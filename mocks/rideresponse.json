@@ -1,0 +1,41 @@
+{
+    "status": "In Progress",
+    "distance": 1.4780860317,
+    "eta": 5,
+     "origin": {
+      "latitude": 37.7749,
+      "display_name": "San Francisco",
+      "longitude": -122.4194
+    },
+  
+    "destination": {
+      "car_model": "Toyota",
+      "driver_name": "Alex",
+      "car_type": "SUV",
+      "car_image": ""
+    },
+  
+    "car_description": {
+      "car_model": "Toyota",
+      "car_type": "SUV",
+      "car_image": "http://d1a3f4spazzrp4.cloudfront.net/car-types/mono/mono-uberx.png"
+    },
+  
+    "diver": {
+      "driver_name": "Alex",
+      "driver_rating": "5 stars",
+      "feedback": "Excellent driver."
+
+    },
+
+    "price": {
+        "ride_price": 13,
+        "currency_code": "USD"
+      },
+    "request_id": "fb0a7c1f-2cf7-4310-bd27-8ba7737362fe",
+    "request_time": 1475545095,
+    "ride_type": "Pool"
+
+  }
+  
+  
