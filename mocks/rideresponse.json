@@ -2,6 +2,7 @@
     "status": "In Progress",
     "distance": 1.4780860317,
     "eta": 5,
+
      "origin": {
       "latitude": 37.7749,
       "display_name": "San Francisco",
@@ -9,10 +10,9 @@
     },
   
     "destination": {
-      "car_model": "Toyota",
-      "driver_name": "Alex",
-      "car_type": "SUV",
-      "car_image": ""
+      "latitude": 87.7749,
+      "display_name": "San Francisco",
+      "longitude": -150.4194
     },
   
     "car_description": {
